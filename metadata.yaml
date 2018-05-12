@@ -1,0 +1,34 @@
+_repo: Lectures-on-Architecture-and-PaintingDelivered-at-Edinburgh-in-November-1853_23593
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+description: ''
+gutenberg_bookshelf:
+- Architecture
+- Art
+gutenberg_issued: '2007-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting'
+- !lcsh 'Turner, J. M. W. (Joseph Mallord William), 1775-1851'
+- !lcc 'N'
+- !lcsh 'Pre-Raphaelitism'
+- !lcsh 'Architecture'
+title: Lectures on Architecture and Painting, Delivered at Edinburgh in November 1853
+url: http://www.gutenberg.org/ebooks/23593
