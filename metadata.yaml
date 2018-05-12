@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23593#Lectures-on-Architecture-and-PaintingDelivered-at-Edinburgh-in-November-1853
 gutenberg_bookshelf:
 - Architecture
 - Art
